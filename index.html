@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Quiz</title>
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+    <div class="info_box">
+        <div class="info-message">
+            Welcome to the Code Quiz!<br>
+            Click the "Start Quiz" button to begin.
+        </div>
+        <div class="buttons">
+            <button class="start_btn">Start Quiz</button>
+            <button class="quit">Quit Quiz</button>
+        </div>
+    </div>
+
+    <div class="quiz_box">
+        <div class="timer">Time Left: <span id="timer">60</span></div>
+        <div class="question_box">
+            <div class="question">Question goes here</div>
+            <ul class="option_list">
+                <li class="option">Option 1</li>
+                <li class="option">Option 2</li>
+                <li class="option">Option 3</li>
+                <li class="option">Option 4</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="result_box">
+        <div class="user_result">
+            Your Score: <span id="score">0</span>
+        </div>
+        <div class="buttons">
+            <button class="restart">Replay Quiz</button>
+            <button class="quit">Quit Quiz</button>
+        </div>
+    </div>
+
+    <script src="./assets/script/script.js"></script>
+</body>
+</html>
