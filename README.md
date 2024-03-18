@@ -1,25 +1,30 @@
-Quiz App
+
+# Quiz App
 
 A simple quiz app built using HTML, CSS, and JavaScript. This app displays a series of multiple-choice questions to the user, with a time limit and score tracking.
 
-Features
+## Features
 
 Displays a series of multiple-choice questions
 Tracks the user's score
 Deduces time from the clock for incorrect answers
 Displays a final score at the end of the quiz
-Getting Started
-To get started with the quiz app, simply clone this repository and open the index.html file in a web browser.
-
-Prerequisites
-
-A web browser
 
 
-Installing
-No installation is required for this app. Simply clone the repository and open the index.html file in a web browser.
+## Technologies Used
 
-Built With
-HTML
-CSS
-JavaScript
+1. **HTML**: Used to structure the content of the website.
+2. **CSS**: Used to style the website and make it visually appealing.
+3.  **JavaScript**: Used to add interactivity to the website.
+
+## Setup
+
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in a web browser to view the website.
+
+[Visit my website!](https://codequizapp.netlify.app)
+
+## Screenshot
+![Screenshot of my website](/PortfolioScreenshot.png)
+
+
