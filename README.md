@@ -1,5 +1,5 @@
 
-# Quiz App
+# Code Quiz App
 
 A simple quiz app built using HTML, CSS, and JavaScript. This app displays a series of multiple-choice questions to the user, with a time limit and score tracking.
 
@@ -25,6 +25,6 @@ Displays a final score at the end of the quiz
 [Visit my website!](https://codequizapp.netlify.app)
 
 ## Screenshot
-![Screenshot of my website](/PortfolioScreenshot.png)
+![Screenshot of my website](/CodeQuizScreenshot.png)
 
 
